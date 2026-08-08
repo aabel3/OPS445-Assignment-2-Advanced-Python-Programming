@@ -1,4 +1,4 @@
-# OPS445 Assignment 2 – Advanced Python Programming
+# OPS445 Assignment 2 – Load Balancer Monitor Script
 
 Welcome to OPS445 Assignment 2!
 
